@@ -17,3 +17,7 @@ o=4
 p=2
 print(o/p)
 print(o//p)
+
+#and or
+print (5>2 and 5>1)
+print (5>2 or 5>10)
