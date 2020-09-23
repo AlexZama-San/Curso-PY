@@ -11,3 +11,9 @@ print (t)
 #concatenacion
 xD="tqm"
 print ("hola amigos "+xD+" como estan?")
+
+#divisiones
+o=4
+p=2
+print(o/p)
+print(o//p)
