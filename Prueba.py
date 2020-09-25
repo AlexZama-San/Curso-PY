@@ -10,8 +10,8 @@ print (y)
 print (t)
 
 #concatenacion
-xD="tqm"
-print ("hola amigos "+xD+" como estan?")
+xD=30
+print ("hola amigos "+str(xD)+" como estan?")
 
 #divisiones
 o=4
